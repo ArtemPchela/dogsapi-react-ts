@@ -1,7 +1,7 @@
 <h1 style="color: #6565d2">Dog-api</h1> 
 
 ## Description
-This app created with stack:
+This app was created with stack:
 * [React](https://reactjs.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Vite](https://vitejs.dev/)
