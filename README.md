@@ -8,11 +8,11 @@ This app was created with stack:
 * [React Router Dom](https://reactrouter.com/web/guides/quick-start)
 * [TanStack Query v4](https://tanstack.com/query/v4/) 
 
-## Installation
+## Installation dependencies
 ```bash
 npm install
 ```
-## Usage
+## Start app
 ```bash
 npm run dev
 ```
